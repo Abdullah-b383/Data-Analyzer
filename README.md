@@ -1,7 +1,6 @@
 ECO1042 Fall 2021 README for Data Analyzer Project Version 1.0 10/12/2021
 
 The project can be reached at:<br>
-Voice: 613 299 7158<br>
 Website: https://carleton.ca/<br>
 Email: abdullahbaseem@cmail.carleton.ca
 
